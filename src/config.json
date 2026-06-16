@@ -1,0 +1,13 @@
+{
+    "main_speed": 35,
+
+    "outer_turn_speed": 25,
+    "inner_turn_speed": -25,
+
+    "slight_outer_turn_speed": 30,
+    "slight_inner_turn_speed": 10,
+
+    "sleep": 0.01,
+
+    "pca_frequency": 50
+}
